@@ -1,21 +1,4 @@
 
-
-AlterSaberr
-/
-NovaNetworkRealmBot
-Public
-forked from BeRP-Plugins/DiscordBridge
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
- main 
-NovaNetworkRealmBot/src/@interface/packetTypes.i.ts
-
-@PMK744
-PMK744 init
  1 contributor
 2135 lines (2132 sloc) 42.9 KB
  // Define Type Aliases For Easy YML Translation And Easy Fixes In Future
