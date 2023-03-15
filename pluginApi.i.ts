@@ -1,21 +1,3 @@
-
-
-AlterSaberr
-/
-NovaNetworkRealmBot
-Public
-forked from BeRP-Plugins/DiscordBridge
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
- main 
-NovaNetworkRealmBot/src/@interface/pluginApi.i.ts
-
-@ATXLtheAxolotl
-ATXLtheAxolotl Switch to DJ Stomp's version of the plugin with a few modifications
  2 contributors
 614 lines (556 sloc)  14.1 KB
  /* eslint-disable @typescript-eslint/ban-ts-comment */
